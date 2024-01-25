@@ -29,7 +29,7 @@ bio: My research interests include multi-modal large language models and robotic
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Robotics
   - Large Language Models
   - Optimization
 

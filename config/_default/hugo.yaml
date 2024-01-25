@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sravani Ramishetty # Website name
-baseURL: 'https://sravaniramishetty1.github.io/' # Website URL
+baseURL: 'https://sravaniramishetty.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
