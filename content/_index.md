@@ -138,7 +138,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          # - post
         author: ""
         category: ""
         tag: ""
