@@ -34,17 +34,17 @@ interests:
   - Optimization
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Electrical and Computer Engineering
-#       institution: Purdue University
-#       year: 2023 - Present
-#     - course: MS in Electrical and Computer Engineering
-#       institution: Purdue University
-#       year: 2021 - 2023
-#     - course: B.Tech in Electrical Engineering
-#       institution: Indian Institute of Technology, Madras
-#       year: 2014 - 2018
+education:
+  courses:
+    - course: PhD in Electrical and Computer Engineering
+      institution: Purdue University
+      year: 2023 - Present
+    - course: MS in Electrical and Computer Engineering
+      institution: Purdue University
+      year: 2021 - 2023
+    - course: B.Tech in Electrical Engineering
+      institution: Indian Institute of Technology, Madras
+      year: 2014 - 2018
 
 
 # Social/Academic Networking
