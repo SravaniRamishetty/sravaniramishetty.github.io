@@ -46,6 +46,45 @@ education:
       institution: Indian Institute of Technology, Madras
       year: 2014 - 2018
 
+# Skills
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: Python
+        description: ''
+        percent: 90
+        icon: python
+        icon_pack: fab
+      - name: Pytorch
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+      - name: SQL
+        description: ''
+        percent: 80
+        icon: database
+        icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Cooking
+        description: ''
+        percent: 80
+        icon: cookie-bite
+        icon_pack: fas
+      - name: Yoga
+        description: ''
+        percent: 60
+        icon: mattress-pillow
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: book
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
