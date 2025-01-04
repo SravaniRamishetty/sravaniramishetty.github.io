@@ -61,28 +61,72 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      # items:
-      #   - title: CEO
-      #     company: GenCoin
-      #     company_url: ''
-      #     company_logo: org-gc
-      #     location: California
-      #     date_start: '2021-01-01'
-      #     date_end: ''
-      #     description: |2-
-      #         Responsibilities include:
-
-      #         * Analysing
-      #         * Modelling
-      #         * Deploying
-      #   - title: Professor of Semiconductor Physics
-      #     company: University X
-      #     company_url: ''
-      #     company_logo: org-x
-      #     location: California
-      #     date_start: '2016-01-01'
-      #     date_end: '2020-12-31'
-      #     description: Taught electronic engineering and researched semiconductor physics.
+      items:
+        - title: Graduate Research Assitant
+          company: Purdue University
+          company_url: 'https://engineering.purdue.edu/ECE'
+          company_logo: Purdue_Boilermakers_logo
+          location: West Lafayette
+          date_start: '2023-08-01'
+          date_end: ''
+          description: |2-
+            Advisor: Prof. Eugenio Cullurciello
+            
+            Working on large language models and multi modal deep neural networks
+        - title: Software Engineer Intern
+          company: Amazon
+          company_url: ''
+          company_logo: 
+          location: Austin
+          date_start: '2022-09-01'
+          date_end: '2022-12-03'
+          description: Alexa devices
+        - title: Graduate Teaching Assistant
+          company: Purdue University
+          company_url: 'https://engineering.purdue.edu/ECE'
+          company_logo: Purdue_Boilermakers_logo
+          location: West Lafayette
+          date_start: '2023-08-15'
+          date_end: '2023-12-31'
+          description: For course ECE 60800 - computational models and methods. Instructed and evaluated students on course curriculum and semester projects
+        - title: Graduate Teaching Assistant
+          company: Purdue University
+          company_url: 'https://engineering.purdue.edu/ECE'
+          company_logo: Purdue_Boilermakers_logo
+          location: West Lafayette
+          date_start: '2022-01-15'
+          date_end: '2023-05-31'
+          description: For course ECE 20002. Instructed and evaluated students on course curriculum and semester projects
+        - title: Data Engineer
+          company: Citi Bank
+          company_url: 'https://www.online.citibank.co.in/'
+          company_logo: 
+          location: Chennai, India
+          date_start: '2018-07-04'
+          date_end: '2021-07-31'
+          description: |2-
+              * Customer DNA and segmentation
+              * Kafka event generation
+              * Structuring digital forms unstructured data 
+        - title: Research Assistant
+          company: Indian Institute of Technology Madras (IITM)
+          company_url: 'https://www.ee.iitm.ac.in/'
+          company_logo: IIT-Madras-01
+          location: Chennai
+          date_start: '2017-05-01'
+          date_end: '2018-07-31'
+          description: |2-
+            Advisor: Prof. Usha Mohan
+            
+            Optimizing efficiency of existing healthcare scheduling systems.
+        - title: Research Intern
+          company: Defense Research and Development Organization
+          company_url: 'https://drdo.gov.in/drdo/'
+          company_logo: 
+          location: Chennai, India
+          date_start: '2016-05-01'
+          date_end: '2016-07-31'
+          description: Improve reliability of LEON3 processors under high temperature and radiation conditions
     design:
       columns: '2'
   - block: accomplishments
