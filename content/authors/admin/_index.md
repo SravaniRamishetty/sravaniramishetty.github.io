@@ -75,5 +75,5 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at Purdue University. My research interests include multi-modal deep neural netwroks and robotics.
+I am a Ph.D. student in Electrical and Computer Engineering at Purdue University working in eLab with Professor Culurciello. My research interests include multi-modal deep neural netwroks and robotics. 
 {style="text-align: justify;"}
