@@ -25,7 +25,7 @@ organizations:
     url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multi-modal large language models and robotics.
+bio: PhD student in Electrical and Computer Engineering at Purdue University, working on multi-modal large language models and robotics.
 
 # Interests to show in About widget
 interests:
@@ -46,45 +46,6 @@ education:
       institution: Indian Institute of Technology, Madras
       year: 2014 - 2018
 
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: python
-        icon_pack: fab
-      - name: Pytorch
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: SQL
-        description: ''
-        percent: 80
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Cooking
-        description: ''
-        percent: 80
-        icon: cookie-bite
-        icon_pack: fas
-      - name: Yoga
-        description: ''
-        percent: 60
-        icon: mattress-pillow
-        icon_pack: fas
-      - name: Reading
-        description: ''
-        percent: 80
-        icon: book
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -114,5 +75,4 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at Purdue University working in eLab with Professor Culurciello. My research interests include multi-modal deep neural netwroks and robotics. 
-{style="text-align: justify;"}
+I am a Ph.D. student in Electrical and Computer Engineering at Purdue University working in eLab with Professor Eugenio Culurciello. My research focuses on multi-modal deep neural networks and robotics applications.

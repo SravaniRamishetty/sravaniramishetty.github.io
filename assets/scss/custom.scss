@@ -1,0 +1,120 @@
+// Custom styles to match Sebastian Raschka's clean design
+
+// Clean typography and spacing
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+}
+
+// Cleaner header styling
+.navbar {
+  border-bottom: 1px solid #e5e5e5;
+  background-color: #ffffff !important;
+  box-shadow: none;
+}
+
+// Simplified profile section
+.about-avatar {
+  img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+}
+
+// Clean blog post styling
+.card-simple {
+  border: none;
+  box-shadow: none;
+
+  .card-text {
+    color: #6c757d;
+    font-size: 0.95rem;
+  }
+
+  .card-title {
+    font-weight: 600;
+    color: #212529;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        color: #0056b3;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+// Cleaner link styling
+a {
+  color: #0056b3;
+  text-decoration: none;
+
+  &:hover {
+    color: #003875;
+    text-decoration: underline;
+  }
+}
+
+// Social icons styling
+.social-links {
+  a {
+    color: #6c757d;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+
+    &:hover {
+      color: #212529;
+    }
+  }
+}
+
+// Clean footer
+.page-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #e5e5e5;
+  padding: 2rem 0;
+  margin-top: 3rem;
+
+  p {
+    color: #6c757d;
+    margin: 0;
+  }
+}
+
+// Experience section styling
+.experience {
+  .card {
+    border: none;
+    box-shadow: none;
+    border-left: 3px solid #e5e5e5;
+    padding-left: 1rem;
+  }
+}
+
+// Remove unnecessary decorations
+.hero-title {
+  display: none;
+}
+
+// Clean section headings
+h1, h2, h3 {
+  font-weight: 600;
+  color: #212529;
+}
+
+// Minimal button styling
+.btn-primary {
+  background-color: #0056b3;
+  border-color: #0056b3;
+  font-weight: 500;
+
+  &:hover {
+    background-color: #003875;
+    border-color: #003875;
+  }
+}
