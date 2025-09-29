@@ -329,15 +329,23 @@ renders as
 
 ### Tables
 
-Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
+Save your spreadsheet as a CSV file in your page's folder and then render it manually:
 
-```go
-{{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
+```markdown
+| customer_id | score |
+|-------------|-------|
+| 1           | 0     |
+| 2           | 0.5   |
+| 3           | 1     |
 ```
 
 renders as
 
-{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
+| customer_id | score |
+|-------------|-------|
+| 1           | 0     |
+| 2           | 0.5   |
+| 3           | 1     |
 
 ### Callouts
 
