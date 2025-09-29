@@ -5,6 +5,7 @@
 
 title: Sravani Ramishetty # Website name
 baseURL: 'https://sravaniramishetty.github.io/' # Website URL
+googleAnalytics: ''
 
 ############################
 ## LANGUAGE
@@ -21,7 +22,8 @@ removePathAccents: true
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
