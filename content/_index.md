@@ -65,6 +65,22 @@ sections:
             Advisor: Prof. Eugenio Cullurciello
             
             Working on large language models and multi modal deep neural networks
+        - title: Graduate Teaching Assistant
+          company: Purdue University
+          company_url: 'https://engineering.purdue.edu/ECE'
+          company_logo: Purdue_Boilermakers_logo
+          location: West Lafayette
+          date_start: '2023-08-15'
+          date_end: '2023-12-31'
+          description: For course ECE 69500 - Optimization for Deep Learning (OPT4DL). Instructed and evaluated students on course curriculum and semester projects
+        - title: Graduate Teaching Assistant
+          company: Purdue University
+          company_url: 'https://engineering.purdue.edu/ECE'
+          company_logo: Purdue_Boilermakers_logo
+          location: West Lafayette
+          date_start: '2023-08-15'
+          date_end: '2023-12-31'
+          description: For course ECE 60800 - computational models and methods. Instructed and evaluated students on course curriculum
         - title: Software Engineer Intern
           company: Amazon
           company_url: ''
@@ -73,14 +89,6 @@ sections:
           date_start: '2022-09-01'
           date_end: '2022-12-03'
           description: Alexa devices
-        - title: Graduate Teaching Assistant
-          company: Purdue University
-          company_url: 'https://engineering.purdue.edu/ECE'
-          company_logo: Purdue_Boilermakers_logo
-          location: West Lafayette
-          date_start: '2023-08-15'
-          date_end: '2023-12-31'
-          description: For course ECE 60800 - computational models and methods. Instructed and evaluated students on course curriculum and semester projects
         - title: Graduate Teaching Assistant
           company: Purdue University
           company_url: 'https://engineering.purdue.edu/ECE'

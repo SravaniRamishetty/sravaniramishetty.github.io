@@ -4,7 +4,12 @@
       "Bash(hugo mod get:*)",
       "Bash(hugo:*)",
       "Read(//Users/sravaniramishetty/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/blox-bootstrap/v5@v5.9.7/layouts/partials/blocks/**)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Read(//Users/sravaniramishetty/Library/Caches/hugo_cache/**)",
+      "Bash(git reset:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": [],
     "ask": []
