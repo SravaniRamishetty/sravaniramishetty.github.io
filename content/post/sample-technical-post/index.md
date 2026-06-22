@@ -7,7 +7,7 @@ summary: A reference post demonstrating how to write code-, diagram-, and math-h
 projects: []
 date: '2026-06-22T00:00:00Z'
 lastmod: '2026-06-22T00:00:00Z'
-draft: false
+draft: true
 
 featured: false
 

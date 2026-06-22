@@ -9,7 +9,11 @@
       "Bash(git push:*)",
       "Read(//Users/sravaniramishetty/Library/Caches/hugo_cache/**)",
       "Bash(git reset:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(git remote *)",
+      "Bash(ssh -o StrictHostKeyChecking=accept-new -T git@github.com)",
+      "Bash(grep -iE '\\\\.\\(env|pem|key|p12|pfx|crt|secret\\)$|secret|credential|password|token|id_rsa')"
     ],
     "deny": [],
     "ask": []
