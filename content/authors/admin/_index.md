@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student in ECE
+role: PhD Student in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,13 +25,13 @@ organizations:
     url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Electrical and Computer Engineering at Purdue University, working on multi-modal large language models and robotics.
+bio: PhD student in Electrical and Computer Engineering at Purdue University, working on general-purpose embodied intelligence — active perception, planning, and manipulation.
 
 # Interests to show in About widget
 interests:
-  - Robotics
-  - Large Language Models
-  - Optimization
+  - Embodied AI
+  - Active Perception
+  - Planning and Manipulation
 
 # Education to show in About widget
 education:
@@ -75,4 +75,4 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at Purdue University working in eLab with Professor Eugenio Culurciello. My research focuses on multi-modal deep neural networks and robotics applications.
+I am a Ph.D. student in Electrical and Computer Engineering at Purdue University working in eLab with Professor Eugenio Culurciello. My research focuses on general-purpose embodied intelligence, spanning active perception, planning, and manipulation.
