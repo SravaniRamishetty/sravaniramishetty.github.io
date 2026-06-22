@@ -11,8 +11,10 @@ sections:
       text: |
         <!-- Add newest items at the top. Keep each line: **Mon YYYY** — what happened. -->
 
-        - **Jun 2026** — Launched my blog on general-purpose embodied intelligence. [Read the latest post](/post/).
-        - **Aug 2023** — Began my PhD in Electrical and Computer Engineering at Purdue University, advised by Prof. Eugenio Culurciello.
+        - **Aug 2023**&emsp;Began my PhD in Electrical and Computer Engineering at Purdue University, advised by [Prof. Eugenio Culurciello](https://e-lab.github.io/).
+        - **Aug 2023**&emsp;Defended my Master's thesis!
+        - **Sep 2022**&emsp;Joined [Amazon](https://www.amazon.jobs/content/en/teams/devices-services/teams) as an Intern in Alexa devices team!
+        - **Aug 2021**&emsp;Began my Master's in Electrical and Computer Engineering at Purdue University, advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io/).
     design:
       columns: '1'
 ---

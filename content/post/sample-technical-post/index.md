@@ -27,6 +27,7 @@ authors:
   - admin
 
 tags:
+  - AI Inference Engineering
   - Tutorial
 categories:
   - Blog

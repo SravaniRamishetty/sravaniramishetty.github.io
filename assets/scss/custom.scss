@@ -42,7 +42,7 @@ body {
       text-decoration: none;
 
       &:hover {
-        color: #0056b3;
+        color: #43a047;
         text-decoration: none;
       }
     }
@@ -51,11 +51,11 @@ body {
 
 // Cleaner link styling
 a {
-  color: #0056b3;
+  color: #43a047;
   text-decoration: none;
 
   &:hover {
-    color: #003875;
+    color: #2e7d32;
     text-decoration: underline;
   }
 }
@@ -109,12 +109,12 @@ h1, h2, h3 {
 
 // Minimal button styling
 .btn-primary {
-  background-color: #0056b3;
-  border-color: #0056b3;
+  background-color: #43a047;
+  border-color: #43a047;
   font-weight: 500;
 
   &:hover {
-    background-color: #003875;
-    border-color: #003875;
+    background-color: #2e7d32;
+    border-color: #2e7d32;
   }
 }

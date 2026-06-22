@@ -1,0 +1,30 @@
+# Theme metadata
+name = "Green Neurons"
+
+[light]
+  # Primary — vivid neuron green
+  primary = "#43a047"
+
+  # Menu — light mint bar with green accents (airy, matches the image)
+  menu_primary = "#f3faf4"
+  menu_text = "#2e5d34"
+  menu_text_active = "#43a047"
+  menu_title = "#1b5e20"
+
+  # Home sections — white alternating with a soft mint tint
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(243, 250, 244)"
+
+[dark]
+  # Primary — brighter green for contrast on dark
+  primary = "#66bb6a"
+
+  # Menu
+  menu_primary = "#132415"
+  menu_text = "#cfe9d2"
+  menu_text_active = "#81c784"
+  menu_title = "#ffffff"
+
+  # Home sections — deep green-tinted charcoal
+  home_section_odd = "rgb(18, 26, 19)"
+  home_section_even = "rgb(24, 33, 25)"
